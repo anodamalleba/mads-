@@ -1,0 +1,24 @@
+body {
+	font-family: arial;
+	background-image: url(https://coffeeassoc.com/wp-content/uploads/2021/07/nathan-dumlao-6VhPY27jdps-unsplash-1-scaled.jpg);
+	background-size: cover;
+}
+nav {
+	width: 1000%;
+	height: 500px;
+	padding-top: 10px 90px;
+}
+nav .logo {
+	padding: 22px 20ox;
+	height: 50px;
+	float: left;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+nav :hover{
+	background-color: lightcoral;
+}
